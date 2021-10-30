@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abhijitApotikar
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning strengthning my js fundamentals
+- 🌱 I’m currently strengthning my js fundamentals
 - 📫 How to reach me U can drop me an email at abhijit.apotikar156@gmail.com
 
 <!---
