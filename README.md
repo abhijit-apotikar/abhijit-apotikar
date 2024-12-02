@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @abhijitApotikar
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently strengthning my js fundamentals
-- 📫 How to reach me U can drop me an email at abhijit.apotikar156@gmail.com
+- 👀 I’m passionate about Web Development
+- 🌱 I am a fullstack javascript developer specializing in front end who love to create engaging, vivid and fulfilling user experiences for end users 
+- 📫 How to reach me? You can drop me an email at apotikar.abhijit007@gmail.com
 
 <!---
 abhijitApotikar/abhijitApotikar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
